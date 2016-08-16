@@ -1,3 +1,10 @@
+This fork just for personal experiments now.
+<!---
+----------
+------------
+
+
+
 [![Build Status](https://travis-ci.org/tasks/tasks.svg?branch=master)](https://travis-ci.org/tasks/tasks) [![codecov.io](http://codecov.io/github/tasks/tasks/coverage.svg?branch=master)](http://codecov.io/github/tasks/tasks?branch=master)
 
 [![Make a contribution](https://pledgie.com/campaigns/24281.png?skin_name=chrome)](https://pledgie.com/campaigns/24281)
@@ -10,3 +17,9 @@ Visit the wiki to
 * [help with translations](https://github.com/tasks/tasks/wiki/Translations)
 * [become a beta tester](https://github.com/tasks/tasks/wiki/Beta-Testing)
 * [get started with development](https://github.com/tasks/tasks/wiki/Getting-Started-with-Development)
+
+
+
+------------
+----------
+--->
